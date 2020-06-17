@@ -1,4 +1,8 @@
-## Reading List on Expressiveness of RNNs
+## Reading List on Theoretical Properties of Neural Sequence Models
+
+On the Computational Power of Transformers and Its Implications in Sequence Modeling, [paper](https://arxiv.org/abs/2006.09286), [code]().
+
+Theoretical Limitations of Self-Attention in Neural Sequence Models, [paper](https://arxiv.org/abs/1906.06755), [code]().
 
 A Formal Hierarchy of RNN Architectures, [paper](https://arxiv.org/abs/2004.08500), [code]().
 
