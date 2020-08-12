@@ -1,5 +1,7 @@
 ## Reading List on Theoretical Properties of Neural Sequence Models
 
+Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network, [paper](https://arxiv.org/abs/1909.00021), [code]().
+
 Big Bird: Transformers for Longer Sequences, [paper](https://arxiv.org/abs/2007.14062), [code]().
 
 On the Computational Power of Transformers and Its Implications in Sequence Modeling, [paper](https://arxiv.org/abs/2006.09286), [code]().
