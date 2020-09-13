@@ -1,4 +1,4 @@
-## Reading List on Theoretical Properties of Neural Sequence Models
+## Theoretical Properties of Neural Sequence Models
 
 Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network, [paper](https://arxiv.org/abs/1909.00021), [code]().
 
@@ -19,3 +19,5 @@ On the Practical Computational Power of Finite Precision RNNs for Language Recog
 Recurrent Neural Networks as Weighted Language Recognizers, [paper](https://arxiv.org/abs/1711.05408), [code]().
 
 Expressive power of recurrent neural networks, [paper](https://arxiv.org/abs/1711.00811), [code]().
+
+An Efficient Probabilistic Context-Free Parsing Algorithm that Computes Prefix Probabilities, [paper](https://www.aclweb.org/anthology/J95-2002/), [code]().
