@@ -1,5 +1,7 @@
 ## Theoretical Properties of Neural Sequence Models
 
+RNNs can generate bounded hierarchical languages with optimal memory, [paper](https://arxiv.org/abs/2010.07515), [code]().
+
 On the Ability and Limitations of Transformers to Recognize Formal Languages, [paper](https://arxiv.org/abs/2009.11264), [code]().
 
 Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network, [paper](https://arxiv.org/abs/1909.00021), [code]().
