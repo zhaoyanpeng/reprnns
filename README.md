@@ -1,5 +1,8 @@
 ## Theoretical Properties of Neural Sequence Models
 
+
+On the Practical Ability of Recurrent Neural Networks to Recognize Hierarchical Languages, [paper](https://arxiv.org/abs/2011.03965), [code]().
+
 RNNs can generate bounded hierarchical languages with optimal memory, [paper](https://arxiv.org/abs/2010.07515), [code]().
 
 On the Ability and Limitations of Transformers to Recognize Formal Languages, [paper](https://arxiv.org/abs/2009.11264), [code]().
